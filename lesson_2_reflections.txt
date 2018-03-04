@@ -3,3 +3,6 @@ Ans: Git initialises an empty .git repositiry to keep track of the changes, comm
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 Ans: This is an intermediate area where changes are ready to commit. It offers a good option to group logical cahnges in staging area and commit from there.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+Ans: Move the logical changes from working area to staging area and then commit those.
