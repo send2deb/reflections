@@ -1,0 +1,5 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+Ans: Git initialises an empty .git repositiry to keep track of the changes, commits and other metadata.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans: This is an intermediate area where changes are ready to commit. It offers a good option to group logical cahnges in staging area and commit from there.
