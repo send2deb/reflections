@@ -6,3 +6,15 @@ Ans: This is an intermediate area where changes are ready to commit. It offers a
 
 Q: How can you use the staging area to make sure you have one commit per logical change?
 Ans: Move the logical changes from working area to staging area and then commit those.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans: Branch can help to experiement new feature, create something new wihtout affecting the original codebase.
+
+Q: How do the diagrams help you visualize the branch structure?
+Ans: It helps to understand which branch is created from which commit. Also if there is any detached commit which cannot be reached from any branch.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans: Merging two branches bring all the changes together and make that a new commit. Diagram helps to understand the branches and when and where those were created and currently what they have got.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Ans: It's good to have auto merging by Git wherever no conflicts but if there is any then manual merge is good to avoid any unwanted situation.
