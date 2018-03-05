@@ -3,3 +3,6 @@ Ans: to share and collaborate work with others.
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Ans: Not all changes in GitHub is acceptable, so manual pull is recommended.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Ans: Fork is like clone but it happens in GitHub from one user's account to other's account. Clone is cloning remote to local or local to local. Branch is creating a another copy of checkout commit and continue to work on that.
