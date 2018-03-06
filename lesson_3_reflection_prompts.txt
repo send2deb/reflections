@@ -6,3 +6,12 @@ Ans: Not all changes in GitHub is acceptable, so manual pull is recommended.
 
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Ans: Fork is like clone but it happens in GitHub from one user's account to other's account. Clone is cloning remote to local or local to local. Branch is creating a another copy of checkout commit and continue to work on that.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+Ans: We can check if there is any change that had happened while offline.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Ans: One option is over email or channel like slack but it's going to be diffuclt to manage and keep track of changes.
+
+q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Ans: Changing in different branch always ensures the master is stable and it also helps to work collborately. Where as working directly on master has less complexity but restrict certain benifits like collaboration.
